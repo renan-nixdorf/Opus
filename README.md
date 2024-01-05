@@ -1,6 +1,6 @@
 # Opus
 
-Este Projeto foi criado utilizando uma fakeAPI para praticar requisições http.
+Pagina que exibe obras da arquitetura. Este projeto foi criado utilizando uma fakeAPI para praticar requisições http.
 
 ## Funcionalidades
 
